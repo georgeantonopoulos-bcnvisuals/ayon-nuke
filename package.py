@@ -1,10 +1,6 @@
 name = "nuke"
 title = "Nuke"
-<<<<<<< HEAD
-version = "0.2.6-bcn.1"
-=======
-version = "0.3.3"
->>>>>>> 0.3.3
+version = "0.3.3-bcn.1"
 app_host_name = "nuke"
 client_dir = "ayon_nuke"
 
